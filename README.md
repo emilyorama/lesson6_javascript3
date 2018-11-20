@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Emily Orama
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project teaches the student how to implement a photo gallery within a webpage thorugh the use of javascript 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to utilize the event listener to create the navigation arrow buttons
+2. I learned how to create and attach nodes for the gallery 
+3. I learned how to edit a javascript file that corresponds to an index.html file to create a photo gallery 
 
